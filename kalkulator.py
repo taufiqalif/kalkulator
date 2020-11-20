@@ -10,13 +10,13 @@ def tambah (a ,b):
     tambah = float(a) + float(b)
     return tambah
 def kurang (a ,b):
-    kurang = float(a) + float(b)
+    kurang = float(a) - float(b)
     return kurang
 def kali (a ,b):
-    kali = float(a) + float(b)
+    kali = float(a) * float(b)
     return kali
 def bagi (a ,b):
-    bagi = float(a) + float(b)
+    bagi = float(a) / float(b)
     return bagi
 
 while True:
